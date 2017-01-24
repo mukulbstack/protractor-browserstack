@@ -3,8 +3,8 @@ exports.config = {
   'seleniumAddress': 'http://hub-cloud.browserstack.com/wd/hub',
 
   'commonCapabilities': {
-    'browserstack.user': process.env.BROWSERSTACK_USERNAME || 'BROWSERSTACK_USERNAME',
-    'browserstack.key': process.env.BROWSERSTACK_ACCESS_KEY || 'BROWSERSTACK_ACCESS_KEY',
+    'browserstack.user': 'mukulgupta5',
+    'browserstack.key': 'djZbvqqj2K5iddUpLZso',
     'build': 'protractor-browserstack',
     'name': 'parallel_test',
     'browserstack.debug': 'true',
