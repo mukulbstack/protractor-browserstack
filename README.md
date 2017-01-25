@@ -17,6 +17,7 @@
 * To run parallel tests, run `npm run parallel`
 * To run local tests, run `npm run local`
 * To run parallel local tests, run `npm run parallel_local`
+* To run parallel local tests via plugin, run `npm run parallel_local_plugin`
 
 ## Notes
 * You can view your test results on the [BrowserStack automate dashboard](https://www.browserstack.com/automate)
